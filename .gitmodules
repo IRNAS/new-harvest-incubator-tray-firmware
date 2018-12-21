@@ -1,0 +1,3 @@
+[submodule "WiFiManager"]
+	path = WiFiManager
+	url = https://github.com/IRNAS/WIFIMANAGER-ESP32
