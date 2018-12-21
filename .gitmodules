@@ -4,3 +4,6 @@
 [submodule "ESP32WebServer"]
 	path = ESP32WebServer
 	url = https://github.com/Pedroalbuquerque/ESP32WebServer
+[submodule "Adafruit_GFX"]
+	path = Adafruit_GFX
+	url = https://github.com/adafruit/Adafruit-GFX-Library
