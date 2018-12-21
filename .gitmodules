@@ -1,3 +1,6 @@
 [submodule "WiFiManager"]
 	path = WiFiManager
 	url = https://github.com/IRNAS/WIFIMANAGER-ESP32
+[submodule "ESP32WebServer"]
+	path = ESP32WebServer
+	url = https://github.com/Pedroalbuquerque/ESP32WebServer
