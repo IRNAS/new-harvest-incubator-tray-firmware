@@ -13,3 +13,6 @@
 [submodule "Adafruit_SHT31"]
 	path = Adafruit_SHT31
 	url = https://github.com/adafruit/Adafruit_SHT31
+[submodule "AccelStepper"]
+	path = AccelStepper
+	url = https://github.com/adafruit/AccelStepper
