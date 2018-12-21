@@ -11,4 +11,4 @@ To control the tray run the [tray_NewHarvest.ino](https://github.com/IRNAS/new-h
 
 For detailed description of the control algorithm, read the readme section in the [Tray.h](https://github.com/IRNAS/new-harvest-incubator-tray-firmware/blob/master/Tray.h) file.
 
-For the user manual see Instructions.
+For the user manual see [Instructions](https://github.com/IRNAS/new-harvest-incubator-tray-firmware/blob/master/Instructions.pdf).
