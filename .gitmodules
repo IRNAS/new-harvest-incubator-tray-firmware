@@ -16,3 +16,6 @@
 [submodule "AccelStepper"]
 	path = AccelStepper
 	url = https://github.com/adafruit/AccelStepper
+[submodule "Blynk"]
+	path = Blynk
+	url = https://github.com/blynkkk/blynk-library
