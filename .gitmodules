@@ -10,3 +10,6 @@
 [submodule "Adafruit_SSD1306"]
 	path = Adafruit_SSD1306
 	url = https://github.com/IRNAS/Adafruit_SSD1306
+[submodule "Adafruit_SHT31"]
+	path = Adafruit_SHT31
+	url = https://github.com/adafruit/Adafruit_SHT31
